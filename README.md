@@ -1,4 +1,7 @@
 # Responsive Chips Website
+
+> **Created by Antono**
+
 ## [Watch it on youtube](https://youtu.be/vcb-cEkE-UI)
 ### Responsive Chips Website
 
